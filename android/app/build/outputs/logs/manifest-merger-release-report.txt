@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-text-input-mask] /home/isaque/Documentos/workspace/AorG/node_modules/react-native-text-input-mask/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/a3598e7ac8b4ef6bab47fec725d04dc7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/isaque/.gradle/caches/transforms-2/files-2.1/842e7210e41ec8c21bbea7774b79f3a6/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/ebbbdf28fbe93987bd720ac90964da43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f7e05f5750db1e941a950cc0d16691b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a9cc3d90b26401cb93d48362eb7caf4e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/270c7f942959d9e1342e94c9431db28e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/4b1a68e46ef968c85769f6b0b401f69d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ed36e44f22c76d6f2b402dfaff457e4e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/29d1357a7f7fa67aeb3c63cedad17e6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/214a1b29cb57ca6710368f63438a99a3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f6ea21a37575e199c1d27ba6880465d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.redmadrobot:inputmask:4.1.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/52a55633763a49a499a8ab97fb96d0f9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/175e63bdf77cbf00ed7fbd8b5fdd15b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9266c447e1b4cbb5d11b3b21a019e9c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/415ef0af2e5c47b02a1d4e00601d7127/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9259d5d0aec324f310b9c329eb81932f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ddf6b6306d079c5c7a80e9e73d5ae975/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/32bcf7fb4e31dcf0836e44722ee48111/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/89ad059392ec83692d062418593d713b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/d43618e523d8518eeaf5275584871662/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/00bfc7fcffdc41fbd0f76cafc65a38cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bf66791e0fa7453ec836ce88ec2653d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/366ed8f802e49a35793a649477fde6c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/30776d08179c968251406ec5d9fc076b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/40816797ab96448cd0e37a9253a51a89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/776f1d0c1a8e1ee915fd3c0a3a40ae5c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/893321d0ad8674e1d96916b83de2659a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a24eca346df1fe44eb4f938f6a79df1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ab343c372250db248b94e30f8bed3434/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/84f146dac5507ff48eacdb3ff9fe62c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/c66505bdfca34079bc2d6cc42680c745/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bdc7c1314a2e347b9409a929a7bc5d1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/cea3abe1d03266300111f47fd559521f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/f1ea02fd31bc130000fa0f8a37c41fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/0f256ef1c7ce534ce98f6643939e0ce1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9acc29d9a560cb1c2fddfb154c2d564c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee46daf714b184cfcce7521fc7304c2d/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/a3598e7ac8b4ef6bab47fec725d04dc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/a3598e7ac8b4ef6bab47fec725d04dc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f6ea21a37575e199c1d27ba6880465d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f6ea21a37575e199c1d27ba6880465d/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/776f1d0c1a8e1ee915fd3c0a3a40ae5c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/776f1d0c1a8e1ee915fd3c0a3a40ae5c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.aorg.MainActivity
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-text-input-mask] /home/isaque/Documentos/workspace/AorG/node_modules/react-native-text-input-mask/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-text-input-mask] /home/isaque/Documentos/workspace/AorG/node_modules/react-native-text-input-mask/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/a3598e7ac8b4ef6bab47fec725d04dc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/a3598e7ac8b4ef6bab47fec725d04dc7/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/isaque/.gradle/caches/transforms-2/files-2.1/842e7210e41ec8c21bbea7774b79f3a6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/isaque/.gradle/caches/transforms-2/files-2.1/842e7210e41ec8c21bbea7774b79f3a6/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/ebbbdf28fbe93987bd720ac90964da43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/isaque/.gradle/caches/transforms-2/files-2.1/ebbbdf28fbe93987bd720ac90964da43/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f7e05f5750db1e941a950cc0d16691b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f7e05f5750db1e941a950cc0d16691b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a9cc3d90b26401cb93d48362eb7caf4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a9cc3d90b26401cb93d48362eb7caf4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/270c7f942959d9e1342e94c9431db28e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/270c7f942959d9e1342e94c9431db28e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/4b1a68e46ef968c85769f6b0b401f69d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/4b1a68e46ef968c85769f6b0b401f69d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ed36e44f22c76d6f2b402dfaff457e4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ed36e44f22c76d6f2b402dfaff457e4e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/29d1357a7f7fa67aeb3c63cedad17e6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/29d1357a7f7fa67aeb3c63cedad17e6d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/214a1b29cb57ca6710368f63438a99a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/214a1b29cb57ca6710368f63438a99a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f6ea21a37575e199c1d27ba6880465d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/7f6ea21a37575e199c1d27ba6880465d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.redmadrobot:inputmask:4.1.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/52a55633763a49a499a8ab97fb96d0f9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.redmadrobot:inputmask:4.1.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/52a55633763a49a499a8ab97fb96d0f9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/175e63bdf77cbf00ed7fbd8b5fdd15b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/175e63bdf77cbf00ed7fbd8b5fdd15b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9266c447e1b4cbb5d11b3b21a019e9c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9266c447e1b4cbb5d11b3b21a019e9c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/415ef0af2e5c47b02a1d4e00601d7127/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/415ef0af2e5c47b02a1d4e00601d7127/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9259d5d0aec324f310b9c329eb81932f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9259d5d0aec324f310b9c329eb81932f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ddf6b6306d079c5c7a80e9e73d5ae975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ddf6b6306d079c5c7a80e9e73d5ae975/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/32bcf7fb4e31dcf0836e44722ee48111/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/32bcf7fb4e31dcf0836e44722ee48111/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/89ad059392ec83692d062418593d713b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/89ad059392ec83692d062418593d713b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/d43618e523d8518eeaf5275584871662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/d43618e523d8518eeaf5275584871662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/00bfc7fcffdc41fbd0f76cafc65a38cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/00bfc7fcffdc41fbd0f76cafc65a38cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bf66791e0fa7453ec836ce88ec2653d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bf66791e0fa7453ec836ce88ec2653d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/366ed8f802e49a35793a649477fde6c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/366ed8f802e49a35793a649477fde6c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/30776d08179c968251406ec5d9fc076b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/30776d08179c968251406ec5d9fc076b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/40816797ab96448cd0e37a9253a51a89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/40816797ab96448cd0e37a9253a51a89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee9dccfc0c589464896955a046bc8431/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/776f1d0c1a8e1ee915fd3c0a3a40ae5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/776f1d0c1a8e1ee915fd3c0a3a40ae5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/893321d0ad8674e1d96916b83de2659a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/893321d0ad8674e1d96916b83de2659a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a24eca346df1fe44eb4f938f6a79df1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/a24eca346df1fe44eb4f938f6a79df1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ab343c372250db248b94e30f8bed3434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ab343c372250db248b94e30f8bed3434/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/84f146dac5507ff48eacdb3ff9fe62c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/84f146dac5507ff48eacdb3ff9fe62c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/c66505bdfca34079bc2d6cc42680c745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/c66505bdfca34079bc2d6cc42680c745/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bdc7c1314a2e347b9409a929a7bc5d1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/bdc7c1314a2e347b9409a929a7bc5d1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/cea3abe1d03266300111f47fd559521f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/cea3abe1d03266300111f47fd559521f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/f1ea02fd31bc130000fa0f8a37c41fd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/f1ea02fd31bc130000fa0f8a37c41fd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/0f256ef1c7ce534ce98f6643939e0ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/0f256ef1c7ce534ce98f6643939e0ce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9acc29d9a560cb1c2fddfb154c2d564c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/9acc29d9a560cb1c2fddfb154c2d564c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee46daf714b184cfcce7521fc7304c2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/isaque/.gradle/caches/transforms-2/files-2.1/ee46daf714b184cfcce7521fc7304c2d/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/isaque/Documentos/workspace/AorG/android/app/src/main/AndroidManifest.xml

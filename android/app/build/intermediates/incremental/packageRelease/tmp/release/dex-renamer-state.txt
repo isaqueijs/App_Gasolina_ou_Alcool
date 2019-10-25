@@ -1,0 +1,4 @@
+#Mon Oct 07 03:37:52 BRT 2019
+base.0=/home/isaque/Documentos/workspace/AorG/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
