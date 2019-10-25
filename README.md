@@ -15,6 +15,13 @@
 <img src="03.jpeg" height="400" width="200" />
 </div>
 
+<style>
+div.box {
+	width: 150px;
+	display: inline-block;
+}
+</style>
+
 ## Instalação do React Native
 
   - Siga a [documentação oficial]https://facebook.github.io/react-native/docs/getting-started, não tem como dá errado. :speak_no_evil:
