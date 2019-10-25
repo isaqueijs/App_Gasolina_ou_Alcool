@@ -18,11 +18,11 @@
 
 ## Instalação do React Native
 
-  - Siga a [documentação oficial]https://facebook.github.io/react-native/docs/getting-started, não tem como dá errado. :speak_no_evil:
+  - Siga a [documentação oficial](https://facebook.github.io/react-native/docs/getting-started), não tem como dá errado. :speak_no_evil:
 
 ## Rodando o App no emulador
 
-  - Clone o [repositório]https://github.com/isaqueijs/App_Gasolina_ou_Alcool na sua estação de trabalho;
+  - Clone o [repositório](https://github.com/isaqueijs/App_Gasolina_ou_Alcool) na sua estação de trabalho;
   - Inicie seu emulador;
   - Navegue até a pasta do projeto e instale as dependências:
     > npm i ou npm install
