@@ -4,9 +4,16 @@
 > App **internacionalizado** com suporte aos indiomas: _português_ e _inglês_
 
 ## Scrennshots
-![](../header.png)
-![](../header.png)
-![](../header.png)
+
+<div>
+<img src="01.jpeg" height="400" width="200" />
+</div>
+<div>
+<img src="02.jpeg" height="400" width="200" />
+</div>
+<div>
+<img src="03.jpeg" height="400" width="200" />
+</div>
 
 ## Instalação do React Native
 
