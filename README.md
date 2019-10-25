@@ -15,12 +15,6 @@
 <img src="03.jpeg" height="400" width="200" />
 </div>
 
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-</style>
 
 ## Instalação do React Native
 
